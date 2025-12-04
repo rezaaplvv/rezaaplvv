@@ -58,3 +58,7 @@
   <br><br>
   <i>Last updated: automatically</i>
 </div>
+
+<div align="center">
+  <img src="https://github.com/rezaaplvv/rezaaplvv/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
