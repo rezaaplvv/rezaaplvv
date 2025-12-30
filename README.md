@@ -48,7 +48,7 @@
   <h3> Languages & Tools</h3>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,github,linux,figma,ps&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,linux,figma,ps&theme=dark&perline=10" />
   </a>
 </div>
 
