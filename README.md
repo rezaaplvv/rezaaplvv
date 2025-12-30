@@ -15,6 +15,7 @@
     <img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
   </a>
 </div>
+
 <br/>
 
 <div align="center">
@@ -36,6 +37,7 @@
   <a href="mailto:rezapahlepi77654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+    </td>
   </tr>
   </table>
 </div>
@@ -45,15 +47,9 @@
 <div align="center">
   <h3> Languages & Tools</h3>
   <br>
-  <p>
-    <a href="https://skillicons.dev">
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=android,java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,github,linux,figma,ps&theme=dark&perline=10" />
   </a>
-</p>
-    </a>
-  </p>
 </div>
 
 ---
@@ -62,18 +58,15 @@
   <h3> GitHub Analytics</h3>
   <br>
   <a href="https://github.com/rezaaplvv">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
   </a>
-  
   <br><br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=7c3aed&style=flat-square" alt="rezaaplvv views" />
-  <br><br>
 </div>
