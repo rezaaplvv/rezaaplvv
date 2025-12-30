@@ -16,6 +16,7 @@
   </a>
 </div>
 <br/>
+
 <div align="center">
   <table border="0" width="90%">
   <tr>
@@ -42,7 +43,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Languages & Tools</h3>
+  <h3> Languages & Tools</h3>
   <br>
   <p>
     <a href="https://skillicons.dev">
@@ -71,8 +72,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=7c3aed&style=flat-square" alt="rezaaplvv views" />
   <br><br>
-</div>
-
-<div align="center">
-  <img src="https://github.com/rezaaplvv/rezaaplvv/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
