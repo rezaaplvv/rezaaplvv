@@ -47,7 +47,11 @@
   <br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=android,java,kotlin,html,css,vscode,git,github,photoshop,figma,mysql&theme=dark" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,github,linux,figma,ps&theme=dark&perline=10" />
+  </a>
+</p>
     </a>
   </p>
 </div>
