@@ -19,11 +19,16 @@
 <div align="center">
   
   ---
-   `TERMINAL_ACCESS: GRANTED` 
+  ### 📡 `TERMINAL_ACCESS: GRANTED` 📡
   ---
   
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/aoshiw/aoshiw/main/images/pacman.svg" width="100%" alt="Pacman Loading" />
+  <br/>
+</div>
 <br/>
 
 <div align="center">
@@ -47,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <h3> <span style="color: #ff00ff;">THE ARSENAL (TECH STACK)</span> </h3>
+  <h3>💾 <span style="color: #ff00ff;">THE ARSENAL (TECH STACK)</span> 💾</h3>
   
   <p><b>// LANGUAGES</b></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -77,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <h3> <span style="color: #00ffff;">DATA LOGS</span> </h3>
+  <h3>📊 <span style="color: #00ffff;">DATA LOGS</span> 📊</h3>
   <br>
   
   <a href="https://github.com/rezaaplvv">
@@ -100,12 +105,18 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <h3> 🐍 <span style="color: #ff00ff;">CONTRIBUTION SNAKE</span> 🐍 </h3>
+  <img src="https://raw.githubusercontent.com/rezaaplvv/rezaaplvv/output/github-contribution-grid-snake.svg" alt="snake contribution chart" />
+</div>
+<br/>
 <br/>
 
 <div align="center">
   
   ---
-  ###  `ESTABLISH_CONNECTION` 
+  ### 🔌 `ESTABLISH_CONNECTION` 🔌
   ---
   
   <br/>
