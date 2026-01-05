@@ -1,74 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,2,30&height=200&section=header&text=Reza%20Pahlepi&fontSize=80&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Informatics%20Engineering%20Student&descAlignY=72&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F14,50:9B5CFF,100:2EF2C8&text=Reza%20Pahlepi&fontSize=70&fontColor=E6EDF3&fontAlignY=40&desc=Informatics%20Engineering%20Student&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=33FFCC&center=true&vCenter=true&width=500&lines=Android+Development+%7C+UI%2FUX;Creative+Design+%26+Photoshop;Building+Digital+Dreams...;System.out.println(%22Hello+World!%22)%3B" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2EF2C8&center=true&vCenter=true&width=520&lines=Android+Developer;UI%2FUX+Engineer;Neo+Minimal+Design;println(%22Build+Something+Great%22);" />
 
-<br/>
+<br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophies">
-  <img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</a>
+<img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<table border="0" width="100%">
-    <tr>
-        <td width="55%">
-            <h3 align="left"> System Status: Online</h3>
-            <ul align="left">
-                <li> I’m currently analyzing <b>Informatics Engineering</b></li>
-                <li> Focusing on <b>Android Development & UI/UX Architecture</b></li>
-                <li> Designing with <b>Photoshop & Figma</b></li>
-                <li> Fun fact: <i>"Code is like humor. When you have to explain it, it’s bad."</i></li>
-            </ul>
-            <br>
-            <p align="left">
-                <a href="https://instagram.com/rezaaplvv" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rezaaplvv" /></a>
-                <a href="mailto:rezapahlepi77654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-            </p>
-        </td>
-        <td width="45%" align="center">
-           <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding Gif">
-        </td>
-    </tr>
+<table width="100%">
+<tr>
+<td width="55%">
+
+### 🟢 System Status: Online
+
+- 🎓 Informatics Engineering Student  
+- 📱 Android Development & UI/UX Architecture  
+- 🎨 Designing with Photoshop & Figma  
+- ⚡ *Code is design. Design is logic.*
+
+<br>
+
+<a href="https://instagram.com/rezaaplvv">
+<img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=9B5CFF"/>
+</a>
+
+<a href="mailto:rezapahlepi77654@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0B0F14?style=for-the-badge&logo=gmail&logoColor=2EF2C8"/>
+</a>
+
+</td>
+
+<td width="45%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%"/>
+</td>
+</tr>
 </table>
+
+---
+
+<div align="center">
+
+### 🧩 Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,c,php&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,tailwind,bootstrap&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,vscode&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=figma,ps,xd&theme=dark" />
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>Technologies & Tools</h3>
-  
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python,c,php&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,tailwind,bootstrap&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,vscode&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,ps,xd&theme=dark" />
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=transparent&title_color=9B5CFF&icon_color=2EF2C8&text_color=E6EDF3&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=transparent&title_color=9B5CFF&text_color=E6EDF3&hide_border=true" height="160"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=transparent&ring=9B5CFF&fire=2EF2C8&currStreakLabel=E6EDF3&hide_border=true"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>GitHub Analytics</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="rezaaplvv stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="rezaaplvv languages" />
-  </div>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=radical&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=PROFILE%20VIEWS&color=ff0050&style=flat-square" alt="rezaaplvv views" />
+
+### 🕹️ Fun Zone
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=PROFILE+VIEWS&color=9B5CFF&style=flat"/>
+
 </div>
