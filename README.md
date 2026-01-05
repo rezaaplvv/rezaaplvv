@@ -1,11 +1,4 @@
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rezaaplvv&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="rezaaplvv trophies" />
-  </a>
-</div>
-<br/>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_00_ffff&height=250&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=00ffff&desc=Welcome%20User:%20rezaaplvv&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
@@ -17,9 +10,16 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rezaaplvv&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="rezaaplvv trophies" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
   
   ---
-  ### 📡 `TERMINAL_ACCESS: GRANTED` 📡
+   `TERMINAL_ACCESS: GRANTED` 
   ---
   
 </div>
@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-  <h3>💾 <span style="color: #ff00ff;">THE ARSENAL (TECH STACK)</span> 💾</h3>
+  <h3> <span style="color: #ff00ff;">THE ARSENAL (TECH STACK)</span> </h3>
   
   <p><b>// LANGUAGES</b></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -77,12 +77,20 @@
 <br/>
 
 <div align="center">
-  <h3>📊 <span style="color: #00ffff;">DATA LOGS</span> 📊</h3>
+  <h3> <span style="color: #00ffff;">DATA LOGS</span> </h3>
   <br>
+  
   <a href="https://github.com/rezaaplvv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" alt="rezaaplvv's GitHub stats" />
   </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/rezaaplvv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" alt="rezaaplvv's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9&hide_title=true&card_width=320&hide_rank=true" alt="rezaaplvv's GitHub stats summary" />
+  </a>
+
 </div>
 
 <br/>
@@ -97,7 +105,7 @@
 <div align="center">
   
   ---
-  ### 🔌 `ESTABLISH_CONNECTION` 🔌
+  ###  `ESTABLISH_CONNECTION` 
   ---
   
   <br/>
