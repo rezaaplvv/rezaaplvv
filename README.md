@@ -1,103 +1,117 @@
 <div align="center">
-
-<img src="[https://capsule-render.vercel.app/api?type=rect&height=240&color=0:05060A,50:7C4DFF,100:00FF9C&text=REZA%20PAHLEPI&fontSize=72&fontColor=C9D1D9&fontAlignY=45&desc=CYBERPUNK%20ANDROID%20ENGINEER&descAlignY=70&descSize=20&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect&height=240&color=0:05060A,50:7C4DFF,100:00FF9C&text=REZA%20PAHLEPI&fontSize=72&fontColor=C9D1D9&fontAlignY=45&desc=CYBERPUNK%20ANDROID%20ENGINEER&descAlignY=70&descSize=20&animation=fadeIn)" width="100%"/>
-
-<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Booting+RezaOS+v1.0...;Loading+Kernel+Modules+%5B](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Booting+RezaOS+v1.0...;Loading+Kernel+Modules+%5B)██████████%5D;Access+Granted.;Android+Developer;UI%2FUX+Engineer;Welcome+to+the+System;" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rezaaplvv&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="rezaaplvv trophies" />
+  </a>
 </div>
-
----
-
-## 🧑‍💻 REZA OS — BOOT SEQUENCE
-
-```text
-██████╗ ███████╗███████╗ █████╗   ██████╗ ███████╗
-██╔══██╗██╔════╝╚══███╔╝██╔══██╗██╔═══██╗██╔════╝
-██████╔╝█████╗    ███╔╝ ███████║██║   ██║███████╗
-██╔══██╗██╔══╝   ███╔╝  ██╔══██║██║   ██║╚════██║
-██║  ██║███████╗███████╗██║  ██║╚██████╔╝███████║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-
-[ OK ] Kernel Initialized
-[ OK ] Android Framework Loaded
-[ OK ] UI/UX Engine Started
-[ OK ] Cyberpunk Theme Activated
-[ OK ] System Online
-```
-
-### 🧠 SYSTEM PROFILE
-```text
-> USER        : REZA_PAHL3PI
-> ROLE        : ANDROID / UI-UX ENGINEER
-> CORE        : JAVA · KOTLIN · FLUTTER
-> DESIGN      : FIGMA · PHOTOSHOP
-> OS          : LINUX
-> STATUS      : ONLINE
-> MOTTO       : "Code is power. Design is control."
-```
+<br/>
 
 <div align="center">
-
-### ⚙️ TECH MODULES
-<img src="[https://skillicons.dev/icons?i=java,kotlin,dart,python,c,php&theme=dark](https://skillicons.dev/icons?i=java,kotlin,dart,python,c,php&theme=dark)" /> <br> 
-<img src="[https://skillicons.dev/icons?i=html,css,js,flutter,tailwind,bootstrap&theme=dark](https://skillicons.dev/icons?i=html,css,js,flutter,tailwind,bootstrap&theme=dark)" /> <br> 
-<img src="[https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,vscode&theme=dark](https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,vscode&theme=dark)" /> <br> 
-<img src="[https://skillicons.dev/icons?i=figma,ps,xd&theme=dark](https://skillicons.dev/icons?i=figma,ps,xd&theme=dark)" /> 
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_000000_100_00_ffff&height=250&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=00ffff&desc=Welcome%20User:%20rezaaplvv&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
-### 🧩 PROJECT DATABASE
-<table width="100%">
-<tr>
-<td width="50%">
-<strong>🟣 CYBER UI SYSTEM</strong>
-<br><br>
-• Android UI Framework<br>
-• Neo-cyber minimal design<br>
-• Kotlin + Material You
-</td>
-<td width="50%">
-<strong>🟢 MOBILE APP CORE</strong>
-<br><br>
-• Flutter cross-platform app<br>
-• Firebase backend<br>
-• Clean Architecture
-</td>
-</tr>
-<tr>
-<td width="50%">
-<strong>🔵 DESIGN LAB</strong>
-<br><br>
-• UI/UX Research<br>
-• High-fidelity mockups<br>
-• Figma & Photoshop
-</td>
-<td width="50%">
-<strong>🔴 SYSTEM TOOLS</strong>
-<br><br>
-• Automation scripts<br>
-• GitHub utilities<br>
-• Linux-based workflow
-</td>
-</tr>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Cyber+Security+Enthusiast;Night+City+Dreamer;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  
+  ---
+  ### 📡 `TERMINAL_ACCESS: GRANTED` 📡
+  ---
+  
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="center">
+      <br/>
+      <samp>
+        > <b style="color:#00ffff">USER_ID:</b> rezaaplvv<br/>
+        > <b style="color:#00ffff">LOCATION:</b> Indonesia<br/>
+        > <b style="color:#00ffff">CURRENTLY:</b> Pushing Code to Production<br/>
+        > <b style="color:#00ffff">MAIN_GOAL:</b> Level Up Skills & Dominate<br/>
+        > <b style="color:#00ffff">STATUS:</b> <span style="color:#ff00ff">Online & Ready to Code</span><br/>
+        > <b style="color:#00ffff">FUN_FACT:</b> I turn coffee into code.<br/>
+      </samp>
+    </td>
+  </tr>
 </table>
+</div>
+
+<br/>
 
 <div align="center">
+  <h3>💾 <span style="color: #ff00ff;">THE ARSENAL (TECH STACK)</span> 💾</h3>
+  
+  <p><b>// LANGUAGES</b></p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-### 📡 SYSTEM MONITORING
-<img src="[https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=transparent&title_color=00FF9C&icon_color=7C4DFF&text_color=C9D1D9&hide_border=true](https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=transparent&title_color=00FF9C&icon_color=7C4DFF&text_color=C9D1D9&hide_border=true)" height="160"/> 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=transparent&title_color=00FF9C&text_color=C9D1D9&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=transparent&title_color=00FF9C&text_color=C9D1D9&hide_border=true)" height="160"/>
-<br><br>
+  <p><b>// FRAMEWORKS & LIBRARIES</b></p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=transparent&ring=00FF9C&fire=7C4DFF&currStreakLabel=C9D1D9&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=transparent&ring=00FF9C&fire=7C4DFF&currStreakLabel=C9D1D9&hide_border=true)"/> 
+  <p><b>// TOOLS & DEVOPS</b></p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
-### 🧬 ACTIVITY TRACE
-<img src="[https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)" /> 
+<br/>
+<br/>
 
-### 🏆 ACHIEVEMENTS
-<img src="[https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=matrix&no-frame=true&no-bg=true&margin-w=8](https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=matrix&no-frame=true&no-bg=true&margin-w=8)" /> 
+<div align="center">
+  <h3>📊 <span style="color: #00ffff;">DATA LOGS</span> 📊</h3>
+  <br>
+  <a href="https://github.com/rezaaplvv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" />
+  </a>
+</div>
 
-<br>
-<img src="[https://komarev.com/ghpvc/?username=rezaaplvv&label=SYSTEM+ACCESS&color=00FF9C&style=flat](https://komarev.com/ghpvc/?username=rezaaplvv&label=SYSTEM+ACCESS&color=00FF9C&style=flat)"/> 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff" alt="GitHub Streak" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  
+  ---
+  ### 🔌 `ESTABLISH_CONNECTION` 🔌
+  ---
+  
+  <br/>
+  
+  <a href="https://instagram.com/rezaaplvv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:hydenruok@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/rezaaplvv">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+  <samp>System shutting down... Goodbye, @rezaaplvv.</samp>
 </div>
