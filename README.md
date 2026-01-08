@@ -29,7 +29,7 @@
               <h2 align="left" style="margin-top: 5px; border-bottom: none;">Reza Pahlepi</h2>
               <p align="left">
                 <code>DEGREE :</code> <kbd>Informatics Engineering</kbd> <br>
-                <code>FOCUS  :</code> <b>Android Enthusiast with a lean toward UI/UX</b>
+                <code>FOCUS  :</code> <b>Android Enthusiast with a lean toward UI/UX</b> <br>
                 <code>PASSION :</code> <b>Finding joy in digital artistry and visual experimentation</b>
               </p>
               <br>
