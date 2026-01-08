@@ -20,30 +20,24 @@
 
 <div align="center">
   <table border="0" width="90%">
-  <tr>
-    <td width="100%" valign="top">
-
-### TERMINAL_SUMMARY
-
-| KEY | VALUE |
-| :--- | :--- |
-| **Education** | <kbd>Informatics Engineering</kbd> Student |
-| **Core Focus** | Specialized in **Android Development** & **UI/UX** |
-| **Interests** | Passionate about **Creative Design** & **Photoshop** |
-
-<br>
-
-> **SYSTEM_RUNTIME_LOG:**
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
-<p align="left">
-  <br>
-  <a href="https://instagram.com/rezaaplvv" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezaaplvv" /></a>
-  <a href="mailto:rezapahlepi77654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-    </td>
-  </tr>
+    <tr>
+      <td bgcolor="#161b22" align="center" style="padding: 20px; border-radius: 10px;">
+        <h3 align="left" style="color: #A970FF; font-family: 'Fira Code', monospace;">> PROFILE_INITIALIZATION</h3>
+        <hr>
+        <p align="left">
+          <code>[EDUCATION]</code> &nbsp; <kbd>Informatics Engineering</kbd> Student <br>
+          <code>[SPECIALTY]</code> &nbsp; <b>Android Development</b> & <b>UI/UX Design</b> <br>
+          <code>[PASSION  ]</code> &nbsp; <b>Creative Design</b> & <b>Photoshop</b>
+        </p>
+        <br>
+        <code style="color: #8b949e;">// "Code is like humor. When you have to explain it, it’s bad."</code>
+        <br><br>
+        <p align="left">
+          <a href="https://instagram.com/rezaaplvv" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezaaplvv" /></a>
+          <a href="mailto:rezapahlepi77654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
