@@ -29,8 +29,8 @@
               <h2 align="left" style="margin-top: 5px; border-bottom: none;">Reza Pahlepi</h2>
               <p align="left">
                 <code>DEGREE :</code> <kbd>Informatics Engineering</kbd> <br>
-                <code>FOCUS  :</code> <kbd>Android Enthusiast with a lean toward UI/UX</kbd> <br>
-                <code>PASSION :</code> <kbd>Finding joy in digital artistry and visual experimentation</kbd>
+                <code>FOCUS  :</code> <kbd>Android Enthusiast with a lean toward UI/UX.</kbd> <br>
+                <code>PASSION :</code> <kbd>Finding joy in digital artistry and visual experimentation.</kbd>
               </p>
               <br>
               <code style="color: #8b949e; font-style: italic;"># "Code is like humor. When you have to explain it, it’s bad."</code>
