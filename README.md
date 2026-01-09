@@ -33,7 +33,7 @@
                 <code>PASSION :</code> <kbd>Finding joy in digital artistry and visual experimentation</kbd>
               </p>
               <br>
-              <code style="color: #8b949e; font-style: italic;"># "Code is like humor. When u have to explain it, it’s bad."</code>
+              <code style="color: #8b949e; font-style: italic;"># "Code is like humor. When you have to explain it, it’s bad."</code>
             </td>
             <td width="40%" valign="top" align="right">
               <code style="color: #58a6ff; font-size: 14px;">// SYSTEM_STATUS</code>
