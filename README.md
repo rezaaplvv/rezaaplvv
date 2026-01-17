@@ -25,7 +25,7 @@
         <table border="0" width="100%">
           <tr>
             <td width="60%" valign="top">
-              <code style="color: #58a6ff; font-size: 14px;">// IDENTITY_STATION</code>
+              <code style="color: #58a6ff; font-size: 14px;">// IDENTITY_STATION.</code>
               <h2 align="left" style="margin-top: 5px; border-bottom: none;">Reza Pahlepi</h2>
               <p align="left">
                 <code>DEGREE :</code> <kbd>Informatics Engineering</kbd> <br>
