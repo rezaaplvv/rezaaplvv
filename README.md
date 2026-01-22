@@ -73,11 +73,11 @@
   <h3> GitHub Analytics</h3>
   <br>
   <a href="https://github.com/rezaaplvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&v=newrefresh" height="170" alt="rezaaplvv stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=newrefresh" height="170" alt="rezaaplvv languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
   </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117&v=newrefresh" alt="rezaaplvv streak" />
+  <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
 </div>
 
 <br/>
