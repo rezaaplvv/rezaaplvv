@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Reza%20Pahlepi&fontSize=90&animation=fadeIn&fontAlignY=32&desc=Informatics%20Engineering%20Student&descAlignY=70&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Reza%20Pahlepi&fontSize=90&animation=fadeIn&fontAlignY=25&desc=Informatics%20Engineering%20Student&descAlignY=85&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -73,11 +73,11 @@
   <h3> GitHub Analytics</h3>
   <br>
   <a href="https://github.com/rezaaplvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&v=newrefresh" height="170" alt="rezaaplvv stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=newrefresh" height="170" alt="rezaaplvv languages" />
   </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117&v=newrefresh" alt="rezaaplvv streak" />
 </div>
 
 <br/>
