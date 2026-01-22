@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Reza%20Pahlepi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Reza%20Pahlepi&fontSize=90&animation=fadeIn&fontAlignY=32&desc=Informatics%20Engineering%20Student&descAlignY=70&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
   </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
 </div>
 
 <br/>
