@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+    <img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=charcoal&no-frame=true&no-bg=true&margin-w=4" width="100%" />
   </a>
 </div>
 
@@ -33,10 +33,10 @@
               <code style="color: #58a6ff; font-size: 14px;">// SYSTEM_STATUS</code>
               <br><br>
               <code>KNOWLEDGE_BASE</code> <br>
-              <img src="https://geps.dev/progress/85?dangerColor=24243e&warningColor=302b63&finishedColor=A970FF" width="150" />
+              <img src="https://geps.dev/progress/85?dangerColor=24243e&warningColor=1f2328&finishedColor=ffffff" width="150" />
               <br><br>
               <code>DESIGN_STRENGTH</code> <br>
-              <img src="https://geps.dev/progress/90?dangerColor=24243e&warningColor=302b63&finishedColor=A970FF" width="150" />
+              <img src="https://geps.dev/progress/90?dangerColor=24243e&warningColor=1f2328&finishedColor=ffffff" width="150" />
             </td>
           </tr>
         </table>
@@ -57,7 +57,7 @@
   <h3>Languages & Tools</h3>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,linux,github,c,figma,ps,cpp,react,laravel,nodejs,postman,androidstudio,arduino,mongodb,nextjs,ai&theme=onedark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,html,css,js,php,python,mysql,firebase,tailwind,bootstrap,vscode,git,linux,github,c,figma,ps,cpp,react,laravel,nodejs,postman,androidstudio,arduino,mongodb,nextjs,ai&theme=dark&perline=10" />
   </a>
 </div>
 
@@ -67,15 +67,15 @@
   <h3> GitHub Analytics</h3>
   <br>
   <a href="https://github.com/rezaaplvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="rezaaplvv languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=charcoal&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="170" alt="rezaaplvv stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=charcoal&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="170" alt="rezaaplvv languages" />
   </a>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=tokyonight&hide_border=true&background=0D1117" alt="rezaaplvv streak" />
+  <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=charcoal&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff" alt="rezaaplvv streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=7c3aed&style=flat-square" alt="rezaaplvv views" />
+  <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=000000&style=flat-square" alt="rezaaplvv views" />
 </div>
