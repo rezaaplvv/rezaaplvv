@@ -6,7 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=monokai&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+    <img
+      src="https://github-profile-trophies.vercel.app/?username=rezaaplvv&theme=monokai&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Stars,Followers,Repositories,Experience,Issues,PullRequest"
+      width="100%"
+    />
   </a>
 </div>
 
