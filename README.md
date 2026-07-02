@@ -15,44 +15,7 @@
 
 <br/>
 
-<div align="center">
-  <table border="0" width="95%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <table border="0" width="100%">
-          <tr>
-            <td width="60%" valign="top">
-              <code style="color: #58a6ff; font-size: 14px;">// IDENTITY_STATION.</code>
-              <h2 align="left" style="margin-top: 5px; border-bottom: none;">Reza Pahlepi</h2>
-              <p align="left">
-                <code>DEGREE :</code> <kbd>Informatics Engineering</kbd> <br>
-                <code>FOCUS  :</code> <kbd>Android Enthusiast with a lean toward UI/UX.</kbd> <br>
-                <code>PASSION :</code> <kbd>Finding joy in digital artistry and visual experimentation.</kbd>
-              </p>
-              <br>
-              <code style="color: #8b949e; font-style: italic;"># "Code is like humor. When you have to explain it, it’s bad."</code>
-            </td>
-            <td width="40%" valign="top" align="right">
-              <code style="color: #58a6ff; font-size: 14px;">// SYSTEM_STATUS</code>
-              <br><br>
-              <code>KNOWLEDGE_BASE</code> <br>
-              <img src="https://geps.dev/progress/85?dangerColor=24243e&warningColor=1f2328&finishedColor=ffffff" width="150" />
-              <br><br>
-              <code>DESIGN_STRENGTH</code> <br>
-              <img src="https://geps.dev/progress/90?dangerColor=24243e&warningColor=1f2328&finishedColor=ffffff" width="150" />
-            </td>
-          </tr>
-        </table>
-        <hr size="1" color="#30363d">
-        <p align="left">
-          <a href="https://instagram.com/rezaaplvv" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rezaaplvv" /></a>
-          <a href="mailto:rezapahlepi77654@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-          &nbsp; <code style="font-size: 11px; color: #8b949e;">[ SYSTEM_READY_FOR_COLLABORATION ]</code>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ---
 
