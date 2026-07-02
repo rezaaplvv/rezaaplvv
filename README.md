@@ -32,10 +32,7 @@
 <div align="center">
   <h3> GitHub Analytics</h3>
   <br>
-  <a href="https://github.com/rezaaplvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaaplvv&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="170" alt="rezaaplvv stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaaplvv&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="170" alt="rezaaplvv languages" />
-  </a>
+
   <br><br>
   <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff" alt="rezaaplvv streak" />
 </div>
