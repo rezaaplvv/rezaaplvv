@@ -38,10 +38,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- GitHub Readme Stats: Top Languages (Sleek Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=94a3b8&icon_color=4f46e5" alt="Reza's Top Languages" />
-</div>
+
 
 <br/>
 
