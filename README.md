@@ -27,7 +27,7 @@
   </a>
 </div>
 
----
+
 
 <div align="center">
   <h3> GitHub Analytics</h3>
