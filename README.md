@@ -29,16 +29,23 @@
 
 
 
-<div align="center">
-  <h3> GitHub Analytics</h3>
-  <br>
+###  GitHub Analytics
 
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff" alt="rezaaplvv streak" />
+<div align="center">
+  <!-- GitHub Streak Stats (Sleek Light Theme) -->
+  <img src="https://streak-stats.demolab.com?user=rezaaplvv&theme=light&hide_border=true&background=ffffff&ring=4f46e5&fire=4f46e5&currStreakNum=0f172a&sideLabels=64748b" alt="Reza's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=000000&style=flat-square" alt="rezaaplvv views" />
+  <!-- GitHub Readme Stats: Top Languages (Sleek Light Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaaplvv&layout=compact&theme=light&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5" alt="Reza's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Profile Views Counter (Minimalist Badge) -->
+  <img src="https://komarev.com/ghpvc/?username=rezaaplvv&label=Profile%20Views&color=0f172a&style=flat-square" alt="Reza's Profile Views" />
 </div>
