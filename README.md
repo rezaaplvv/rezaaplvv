@@ -3,7 +3,6 @@
 </div>
 
 <br/>
-###  GitHub Analytics
 
 <div align="center">
   <!-- GitHub Streak Stats (Sleek Dark Theme) -->
